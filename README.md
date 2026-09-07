@@ -1,2 +1,11 @@
-# NourishAI-An-Intelligent-Personalized-Nutrition-and-Wellness-Recommendation-System-
-AI-Based Personalized Nutrition &amp; Wellness System for College Students offers tailored meal plans &amp; skin/hair care tips based on budget, schedule &amp; preferences. Built with Python, Pandas, Scikit-learn, HTML/CSS/JS/figma. Promotes healthy choices within student limits.
+
+  # Nutrition app
+
+  This is a code bundle for Nutrition app. The original project is available at https://www.figma.com/design/e27AxdAuQwgNuhEC1lxLck/Nutrition-app.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
